@@ -4,6 +4,33 @@
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
+<heading>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rounded Canary Yellow Button</title>
+    <style>
+        .rounded-button {
+            background-color: #FFEF00; /* Canary yellow */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 25px; /* Rounded corners */
+        }
+    </style>
+</head>
+<body>
+    <a href="https://chat.quizzity.tech/" class="rounded-button">ADS Chat</a>
+</body>
+</html>
+
 ## Quick start
 
 1. Make sure a `README.md` file exists in the root directory of your repo, and GitHub Pages is enabled in your repository settings.
