@@ -31,7 +31,8 @@
 </body>
 </html>
 
-## Quick start
+
+## Projects I've been involved in:
 
 1. Make sure a `README.md` file exists in the root directory of your repo, and GitHub Pages is enabled in your repository settings.
 
