@@ -32,16 +32,13 @@
 
 <br>
 <br>
-<br>
 
 ## Projects I've been involved in:
 <br>
 
 1. ADSCRAFT: Almost 2 year-old minecraft Civilisations server.
 <br>
-<br>
 2. ADS Chat: Web client of Nerimity.
-<br>
 <br>
 3. ADS Films: Small filming company that makes small films!
 
