@@ -4,10 +4,10 @@ bg_color: dark # can be dark, light or auto
 # theme-color is the main accent color and can be red, pink, fuchsia, purple, violet, indigo, blue, azure, cyan, jade, green,
 # lime, yellow, amber, pumpkin, orange, sand, grey, zinc, slate. See samples on https://picocss.com/docs/version-picker
 theme_color: azure
-title: Quick
-description: Quick. The fastest and easiest way to make a GitHub Pages website for your project.
+title: QuizzityMC
+description: Hey, I'm QuizzityMC! I'm the leader of the Thalizar Empire and am also working on a fre Projects!
 keywords: github pages, github readme, github pages theme, jekyll theme, landing page
-gtag: G-X7HSHVZDZT # Google Analytics tag (e.g. G-A1BCDEFGHI). Please replace it with YOUR tag.
+gtag: G-0KF401LGYW # Google Analytics tag (e.g. G-A1BCDEFGHI). Please replace it with YOUR tag.
 
 # If you're using devich/quick as your GitHub Pages remote theme,
 # there's no need to copy the options listed below.
