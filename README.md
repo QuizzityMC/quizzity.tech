@@ -3,8 +3,6 @@
 
 <p class="ignore">Looking for ADS-Chat?&thinsp;—&thinsp;<a href="https://chat.quizzity.tech/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
 
-
-<head>
     <style>
         .custom-button {
             background-color: #FFEF00; /* Canary Yellow */
@@ -20,7 +18,6 @@
             border-radius: 25px; /* More rounded */
         }
     </style>
-</head>
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
