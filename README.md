@@ -3,6 +3,8 @@
 
 <p class="ignore">Looking for ADS-Chat?&thinsp;—&thinsp;<a href="https://chat.quizzity.tech/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
 
+<button onclick="window.location.href='https://chat.quizzity.tech/';">Go to ADS Chat</button>
+
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
 ## Quick start
