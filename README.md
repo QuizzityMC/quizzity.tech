@@ -3,11 +3,18 @@
 
 <p class="ignore">Looking for ADS-Chat?&thinsp;—&thinsp;<a href="https://chat.quizzity.tech/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
 
-<!DOCTYPE html>
+
 <html>
 <head>
-    <title>Button Link Example</title>
+    <title>QuizzityMC</title>
     <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full viewport height */
+            margin: 0;
+        }
         .custom-button {
             background-color: #FFEF00; /* Canary Yellow */
             color: black;
