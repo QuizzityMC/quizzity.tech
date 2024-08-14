@@ -1,8 +1,7 @@
 # <span style="color: #ff201e">QuizzityMC.</span> Leader of the Thalizar Empire&nbsp;creator of ADSCRAFT&nbsp;; Founder of the ADS.
 #### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
 
-<p class="ignore">Looking for ADS-Chat? Click the button below.</a> </p>
-
+<p class="ignore">Looking For ADS Chat?&thinsp;—&thinsp;Click the button below!</a>:</p>
 
 <html>
 <head>
