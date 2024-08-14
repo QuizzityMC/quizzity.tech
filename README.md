@@ -4,7 +4,6 @@
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
-<heading>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,18 +31,19 @@
 </html>
 
 <br>
+<br>
+<br>
 
 ## Projects I've been involved in:
+<br>
 
-1. Make sure a `README.md` file exists in the root directory of your repo, and GitHub Pages is enabled in your repository settings.
-
-2. Create a file named `_config.yml` in the root directory of your repository. The file should contain the following content:
-```yaml
-remote_theme: devich/quick@0.0.1
-```
-
-3. That’s it! There is no step 3. You now have a GitHub Pages website that’s based on your `README.md` file. The changes will take effect some time after you commit and push your updates to the repository. Enjoy your new website!
-
+1. ADSCRAFT: Almost 2 year-old minecraft Civilisations server.
+<br>
+<br>
+2. ADS Chat: Web client of Nerimity.
+<br>
+<br>
+3. ADS Films: Small filming company that makes small films!
 
 ## Looking for a simple landing page for your project? 
 
