@@ -3,17 +3,11 @@
 
 <p class="ignore">Looking For ADS Chat?&thinsp;—&thinsp;Click the button below!</a>:</p>
 
+<!DOCTYPE html>
 <html>
 <head>
-    <title>QuizzityMC</title>
+    <title>Your Existing Page</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full viewport height */
-            margin: 0;
-        }
         .custom-button {
             background-color: #FFEF00; /* Canary Yellow */
             color: black;
@@ -30,9 +24,14 @@
     </style>
 </head>
 <body>
+    <!-- Your existing content -->
+
     <button class="custom-button" onclick="window.location.href='https://chat.quizzity.tech/';">Go to ADS Chat</button>
+
+    <!-- More of your existing content -->
 </body>
 </html>
+
 
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
