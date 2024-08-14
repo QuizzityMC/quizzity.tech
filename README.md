@@ -1,7 +1,7 @@
 # <span style="color: #ff201e">QuizzityMC.</span> Leader of the Thalizar Empire&nbsp;creator of ADSCRAFT&nbsp;; Founder of the ADS.
 #### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
 
-<p class="ignore">Just see it yourself&thinsp;—&thinsp;<a href="https://devich.github.io/quick/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
+<p class="ignore">Looking for ADS-Chat?&thinsp;—&thinsp;<a href="https://chat.quizzity.tech/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
