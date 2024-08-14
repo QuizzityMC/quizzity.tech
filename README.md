@@ -1,38 +1,6 @@
-# <span style="color: #ff201e">QuizzityMC.</span> Leader of the Thalizar Empire&nbsp;creator of ADSCRAFT&nbsp;; Founder of the ADS.
-#### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
+# <span style="color: #ff201e">QuizzityMC.</span> Leader of the Thalizar Empire,&nbsp; Owner of ADSCRAFT, &nbsp;, President of the ADS!
 
-<p class="ignore">Looking For ADS Chat?&thinsp;—&thinsp;Click the button below!</a>:</p>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your Existing Page</title>
-    <style>
-        .custom-button {
-            background-color: #FFEF00; /* Canary Yellow */
-            color: black;
-            border: none;
-            padding: 15px 30px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
-            border-radius: 25px; /* More rounded */
-        }
-    </style>
-</head>
-<body>
-    <!-- Your existing content -->
-
-    <button class="custom-button" onclick="window.location.href='https://chat.quizzity.tech/';">Go to ADS Chat</button>
-
-    <!-- More of your existing content -->
-</body>
-</html>
-
-
+<p class="ignore">Just see it yourself&thinsp;—&thinsp;<a href="https://devich.github.io/quick/">this page</a> is the same <code>README.md</code> file you’re reading, but with the Quick theme applied:</p>
 
 <a class="ignore" href="https://devich.github.io/quick/"><img src="assets/img/preview.png" alt="Quick preview"></a>
 
